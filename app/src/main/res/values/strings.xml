@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Udacity Practical Quiz One</string>
+
+    <!--user details in activity_main-->
+    <string name="et_hint_username">Username</string>
+    <string name="et_hint_email">Email</string>
+    <string name="et_hint_user_desc">Write about yourself</string>
+    <string name="btn_next">Next</string>
+
+    <string name="user_profile_image_desc">Profile image of the user.</string>
+    <!-- shared preference's keys-->
+    <string name="shared_pref_name">UserDetails</string>
+    <string name="shared_pref_username_key">username</string>
+    <string name="shared_pref_user_email_key">email</string>
+    <string name="shared_pref_user_desc_key">description</string>
+
+    <!-- shared preference's values-->
+    <string name="tv_username_default">realbikashthakur</string>
+    <string name="tv_user_email_default">realbikashthakur@gmail.com</string>
+    <string name="tv_user_desc_default">My name is Bikash Thakur. This is default user description. Please write your own.</string>
+
+</resources>
